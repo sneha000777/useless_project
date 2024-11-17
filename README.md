@@ -1,7 +1,7 @@
 # 🌍✨ AtmosphAIre: Classifying the Unclassifiable 🌬️🌈
 
 ### 💡 *A creative journey to find the moods in the air around us!* 
-### Running on http://127.0.0.1:5000
+### Running on https://useless-project-gamma.vercel.app/
 
 > **“Sometimes, the most brilliant innovations come from the most whimsical ideas.”**  
 > Welcome to **AtmosphAIre** — a place where imagination meets machine learning!
